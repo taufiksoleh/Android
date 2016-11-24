@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1086583672517",
+    "firebase_url": "https://find-friend-location.firebaseio.com",
+    "project_id": "find-friend-location",
+    "storage_bucket": "find-friend-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086583672517:android:6e0a7677d8f3cbdd",
+        "android_client_info": {
+          "package_name": "studio.backshare.findfriendlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086583672517-jlep2jcs6q0alncmdsg1o54r2q36rkpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8gLmVLeD_ol5HQXEu0exV791UG5Lg2w0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086583672517:android:c94f7477f8ded412",
+        "android_client_info": {
+          "package_name": "com.taufiksoleh.findfriendlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086583672517-91h1f44d0mg1d3o2lgfnp8erlc7m0of8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taufiksoleh.findfriendlocation",
+            "certificate_hash": "3214DEAB2831BFC5EE67D83B2673E7BCEC7E910D"
+          }
+        },
+        {
+          "client_id": "1086583672517-jlep2jcs6q0alncmdsg1o54r2q36rkpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8gLmVLeD_ol5HQXEu0exV791UG5Lg2w0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086583672517-jlep2jcs6q0alncmdsg1o54r2q36rkpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
